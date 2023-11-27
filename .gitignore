@@ -1,0 +1,9 @@
+/.idea/
+/api/target/
+/core/target/
+/persistence/target/
+/kafka/target/
+/rest/target/
+/domain/target/
+/rest-export/target/
+**/.flattened-pom.xml
