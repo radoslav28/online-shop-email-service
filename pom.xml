@@ -16,6 +16,7 @@
 
     <properties>
         <revision>0.0.1-SNAPSHOT</revision>
+        <user.revision>0.0.1-SNAPSHOT</user.revision>
         <java.version>17</java.version>
     </properties>
 

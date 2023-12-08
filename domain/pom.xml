@@ -22,6 +22,11 @@
             <artifactId>mailgun-java</artifactId>
             <version>1.0.8</version>
         </dependency>
+        <dependency>
+            <groupId>com.online-shop.user</groupId>
+            <artifactId>api</artifactId>
+            <version>${user.revision}</version>
+        </dependency>
     </dependencies>
 
 </project>
